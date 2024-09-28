@@ -1,3 +1,3 @@
-# profKincer
+# pkalico
 hnkincer@waketech.edu
-Editing README files
+This is a generic readme file. 
